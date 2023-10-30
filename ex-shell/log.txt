@@ -1,0 +1,8 @@
+total 12
+-rw-rw-r-- 1 eddyfrair eddyfrair 11 Oct 30 11:24 batman.txt
+-rw-rw-r-- 1 eddyfrair eddyfrair 22 Oct 30 13:07 justice_league.txt
+-rw-rw-r-- 1 eddyfrair eddyfrair 10 Oct 30 11:23 superman.txt
+
+total 8
+-rw-rw-r-- 1 eddyfrair eddyfrair 12 Oct 30 11:23 captain_america.txt
+-rw-rw-r-- 1 eddyfrair eddyfrair 10 Oct 30 11:23 iron_man.txt
